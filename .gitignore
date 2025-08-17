@@ -35,6 +35,7 @@ Output
 saida/*
 Saida
 logs/*
+data/*
 #
 settings/config.ini
 docker-compose.yml
